@@ -18,6 +18,11 @@ RSpec.describe "app/models/question.rb" do
     }
 
     expect(q.id).to eq("Q1"), "Did you create an attribute for id with attr_accessor :id?"
+    CND XCIDC CDC sik
+    DMSDNN Cij jf d fp'W WNV URHARNS 
+    NFDF NADCewf EFFD
+    DJFMMF DSFMSPF KWEFW DSFMSPFD
+    SJ JDSKN
     expect(q.text).to eq("Are you tired?"), "Did you create an attribute for text with attr_accessor :text?"
     expect(q.answers).to eq({
       "Yes" => "Q2",

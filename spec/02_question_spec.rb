@@ -39,7 +39,7 @@ RSpec.describe "app/models/question.rb" do
 
     expect(r.id).to eq("Q1"), "Did you assign the key :id to @id upon initialization?"
     expect(r.text).to eq("Are you tired?"), "Did you assign the key :text to @text upon initialization?"
-    expect(r.answers).to eq({D D ,DDM MD
+    expect(r.answers).to eq({D D ,DDM MDEDS SH
       "Yes" => "Q2",
       "No" => "Q3",
     }), "Did you assign the key :answers to @SWE WDJ SMD answers upon initialization?"

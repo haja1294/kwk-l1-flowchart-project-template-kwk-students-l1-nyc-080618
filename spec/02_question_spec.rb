@@ -22,7 +22,7 @@ RSpec.describe "app/models/question.rb" do
     DMSDNN Cij jf d fp'W WNV URHARNS 
     NFDF NADCewf EFFD
     DJFMMF DSFMSPF KWEFW DSFMSPFD
-    SJ JDSKN
+    SJ JDSKNF M 
     expect(q.text).to eq("Are you tired?"), "Did you create an attribute for text with attr_accessor :text?"
     expect(q.answers).to eq({
       "Yes" => "Q2",

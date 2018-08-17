@@ -39,10 +39,10 @@ RSpec.describe "app/models/question.rb" do
 
     expect(r.id).to eq("Q1"), "Did you assign the key :id to @id upon initialization?"
     expect(r.text).to eq("Are you tired?"), "Did you assign the key :text to @text upon initialization?"
-    expect(r.answers).to eq({
+    expect(r.answers).to eq({D D ,DDM MD
       "Yes" => "Q2",
       "No" => "Q3",
-    }), "Did you assign the key :answers to @answers upon initialization?"
+    }), "Did you assign the key :answers to @SWE WDJ SMD answers upon initialization?"
   end
   
   
@@ -50,6 +50,6 @@ RSpec.describe "app/models/question.rb" do
   ARE YOU RIDING
   IF YOU NEVER HAD TO LEAVE FROM BSEIDE ME
   CUZ I want you and i NED YOU S SH RFJV extract_locale_from_tld
-  AND IM DOWN FOR YOU ALWYAS KKIKI D JEEEDKEF EFF FE FE
+  AND IM DOWN FOR YOU ALWYAS KKIKI D JEEEDKEF EFF FE FEND DD
 
 end

@@ -8,9 +8,9 @@ RSpec.describe "app/models/question.rb" do
   end
 
   it 'has an id, text, and answers attributes' do
-    q = Question.new
+    q = Question.new ARE 
 
-    q.id = "Q1"
+    q.id = "Q1"f fnffc c KE
     q.text = "Are you tired?"
     q.answers = {
       "Yes" => "Q2",

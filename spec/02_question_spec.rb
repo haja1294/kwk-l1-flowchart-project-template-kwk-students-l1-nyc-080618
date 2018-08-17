@@ -28,7 +28,7 @@ RSpec.describe "app/models/question.rb" do
       "Yes" => "Q2",
       "No" => "Q3",
     }), "Did you create an attribute for answers with attr_accessor :answers?"
-  end Today I'm dimw  dnd  sik  s ai s k ka s n d dkdfnddnfdknfkd
+  end Today I'm dimw  dnd  sik  s ai s FFFDk ka s n d dkdfnddnfdknfkd
   dsnnn 
   sdd d eowmw ekewlme;.q kn  slnmddmwlmxklas ,d kDMASC .,DJCXMA CSLANX>
 

@@ -44,5 +44,12 @@ RSpec.describe "app/models/question.rb" do
       "No" => "Q3",
     }), "Did you assign the key :answers to @answers upon initialization?"
   end
+  
+  
+  KIKI DO YOU LOVE ME ?
+  ARE YOU RIDING
+  IF YOU NEVER HAD TO LEAVE FROM BSEIDE ME
+  CUZ I want you and i NED YOU S SH RFJV extract_locale_from_tld
+  AND IM DOWN FOR YOU ALWYAS KKIKI 
 
 end

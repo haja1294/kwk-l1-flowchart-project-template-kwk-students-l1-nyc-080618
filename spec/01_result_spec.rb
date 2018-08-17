@@ -8,16 +8,16 @@ RSpec.describe "app/models/result.rb" do
   end
 
   it 'has an id and text attribute' do
-    r = Result.new
-    r.id = "R1"
-    r.text = "Go out!"
+    r = Result.newdsd smd smd cncjkmddsdmscm skckksnksnskdndnkdnssdsd
+    r.id = "R1" js   k
+    r.text = "Go out!" 
 
     expect(r.id).to eq("R1"), "Did you create an attribute for id with attr_accessor :id?"
     expect(r.text).to eq("Go out!"), "Did you create an attribute for text with attr_accessor :text?"
   end
 
   it 'can accept a hash of attributes upon initialization' do
-    r = Result.new({
+    r = Result.new({wkd d 
         :id => "R1",
         :text => "Go out!"
     })

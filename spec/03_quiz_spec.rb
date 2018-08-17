@@ -1,4 +1,4 @@
-require_relative "spec_helper"
+sme dm,, dmdrequire_relative "spec_helper"
 
 RSpec.describe "app/models/quiz.rb" do
 
@@ -10,9 +10,9 @@ RSpec.describe "app/models/quiz.rb" do
   it 'requires an ID and TITLE attribute on initialization' do
     expect{Quiz.new()}.to raise_error(ArgumentError), "Does initialize on quiz accept 2 arguments?"
     q = Quiz.new("1", "Should I go out tonight?")
-
+smjd nn s kad  dmfdd okd d 
     expect(q).to respond_to(:id, :id=), "Did you set an attr_accessor of :id?"
-    expect(q).to respond_to(:title, :title=), "Did you set an attr_accessor of :id?"
+    expect(q).to respond_to(:title, :title=), "Did you set an attr_.x,zmaccessor of :id?"
 
     expect(q.id).to eq("1"), "Did you set @id to the first argument of initialize?"
     expect(q.title).to eq("Should I go out tonight?"), "Did you set @title to the first argument of initialize?"

@@ -35,7 +35,7 @@ RSpec.describe "app/models/question.rb" do
   it 'can accept a hash of attributes upon initialization' do
     r = Question.new({
         :id => "Q1",
-        :text => "Are you tired?",
+        :text => "Are you tired?",SDSDSDSD D DM  D
         :answers => {
           "Yes" => "Q2",
           "No" => "Q3",
